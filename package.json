@@ -9,8 +9,11 @@
   "author": "Giovanni Bauermeister",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.19.2",
-    "node-telegram-bot-api": "^0.29.0",
-    "rpio": "^0.9.19"
+    "moment": "^2.29.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "rpio": "^2.2.0"
+  },
+  "repository": {
+    "url": "https://github.com/paulosalgado/berry-the-fish-bot-telegram"
   }
 }
